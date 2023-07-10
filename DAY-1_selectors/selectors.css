@@ -1,0 +1,94 @@
+
+/* universal selectors
+
+    *{
+        color:red;
+        font-size:29px;
+    }
+
+*/
+
+/* id selectors
+
+    #paragraph{
+        color:red;
+        font-size:29px;
+    }
+
+*/
+
+/* class selectors
+
+    .container{
+        color:red;
+        font-size:29px;
+    }
+
+*/
+/* name selectors
+
+    h1 {
+        color:red;
+        font-size:29px;
+    }
+
+*/
+/* grouping  selectors
+
+    h1 , p,div{
+        color:red;
+        font-size:29px;
+    }
+
+*/
+/* direct child selectors
+
+Targets direct children of the parent element
+
+    h1 > p{
+        color:red;
+        font-size:29px;
+    }
+
+*/
+
+/*
+Desendent selector(space)
+    
+Targets all the  paragraph of the parent element
+
+div p
+{
+    color:red;
+    font-size:20px;
+}
+
+
+*/
+
+/*
+    Adjacent sibiling selector(+)
+
+    targets the sibiling element that immediately follows
+
+div + p{
+
+    color:blue;
+    font-size:21px;
+}
+
+
+*/
+
+
+/*
+General sibiling selector 
+
+targets the sibiling elements that follow the element with class "container"
+
+*/
+
+
+
+
+
