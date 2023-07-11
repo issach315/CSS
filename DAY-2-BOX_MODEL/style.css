@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+
+    text-align: center;
+    background-color: rgba(222, 184, 135, 0.319);
+    color: darkmagenta;
+    width:100px;
+    height: 50px;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 12px;
+    padding-left: 13px;
+    border: 4px solid rgb(116, 15, 144);
+
+
+
+}
