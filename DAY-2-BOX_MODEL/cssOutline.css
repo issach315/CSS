@@ -1,0 +1,82 @@
+.exp1{
+
+    margin: 60px;
+    border: 2px solid rgb(0, 0, 0);
+    outline-style: dotted;
+    outline-color: red;
+    outline-width: 4px;
+    outline-offset: 10px;
+    
+}
+.exp2{
+    margin :60px;
+    border: 2px solid rgb(0, 0, 0);
+    outline-style: dashed;
+    outline-color: rgb(4, 0, 255);
+    outline-width: 4px;
+    outline-offset: 10px;
+    
+}
+.exp3{
+    margin: 60px;
+    border: 2px solid rgb(0, 0, 0);
+    outline-style:ridge;
+    outline-color: rgb(0, 255, 21);
+    outline-width: 4px;
+    outline-offset: 10px;
+    
+}
+.exp4{
+    margin: 60px;
+    border: 2px solid rgb(0, 0, 0);
+    outline-style: double;
+    outline-color: rgb(166, 0, 255);
+    outline-width: 4px;
+    outline-offset: 10px;
+    
+}
+.exp5{
+    margin: 60px;
+    border: 2px solid rgb(0, 0, 0);
+    outline-style: groove;
+    outline-color: red;
+    outline-width: 4px;
+    outline-offset: 10px;
+    
+}
+.exp6{
+    margin: 60px;
+    border: 2px solid rgb(0, 0, 0);
+    outline-style: inset;
+    outline-color: red;
+    outline-width: 4px;
+    outline-offset: 10px;
+    
+}
+.exp7{
+    margin: 60px;
+    border: 2px solid rgb(0, 0, 0);
+    outline-style: none;
+    outline-color: red;
+    outline-width: 4px;
+    outline-offset: 10px;
+    
+}
+.exp8{
+    margin: 60px;
+    border: 2px solid rgb(0, 0, 0);
+    outline-style: outset;
+    outline-color: red;
+    outline-width: 4px;
+    outline-offset: 10px;
+    
+}
+.exp9{
+    margin: 60px;
+    border: 2px solid rgb(0, 0, 0);
+    outline-style: hidden;
+    outline-color: red;
+    outline-width: 4px;
+    outline-offset: 10px;
+    
+}
