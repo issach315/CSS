@@ -1,0 +1,31 @@
+main{
+
+    padding: 5% 10%;
+    font-size: 2rem;
+    font-family: 'Times New Roman';
+}
+
+
+ol li
+{
+    color: darkgreen;
+    list-style:decimal;
+    line-height:2em;
+    list-style-position: inside;
+    list-style-type: lower-alpha;
+    list-style-image: url("../image/icons8-html-5-48.png");
+
+
+}
+
+ul li:nth-child(2){
+    color: red;
+    list-style-type: square;
+}
+ul ::marker{
+
+    color: rgb(20, 23, 156);
+    content: "only 5$ >>  ";
+    list-style:outside;
+    font-size: 1.2em;
+}
