@@ -1,0 +1,29 @@
+p{
+
+    background-color: #8ce0c4;
+    color: rgb(83, 6, 121);
+    padding: 40px;
+    text-align: justify;
+    
+}
+
+
+a:link
+{
+    color: crimson;
+    text-decoration: none;
+}
+a:visited
+{
+    color: darkgreen;
+}
+a:hover ,a:focus
+{
+    color:red;
+   
+}
+a:active
+{
+    color:blue;
+}
+
