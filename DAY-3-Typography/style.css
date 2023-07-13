@@ -1,0 +1,16 @@
+p{
+    background-color: rgba(250, 235, 215, 0.719);
+    color: blue;
+    text-transform: capitalize;
+    text-align: justify;
+    text-decoration:solid;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 0.05em;
+    word-spacing: 0.08em;
+    font-style: italic;
+    text-shadow:0.06em 0.06em green;
+    font-size: large;
+    text-orientation: upright;
+
+}
