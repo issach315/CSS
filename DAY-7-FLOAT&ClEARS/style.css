@@ -1,0 +1,22 @@
+
+.one img{
+    float:right;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+}
+.two{
+    background-color: gold;
+    overflow: auto;
+}
+.two img{
+
+    float: right;
+    margin-right: 2em;
+      
+}
+.three img{
+    float: left;
+}
+.three{
+    clear:both;
+}
