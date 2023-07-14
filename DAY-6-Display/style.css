@@ -56,6 +56,6 @@ li:focus
     color: rgb(103, 4, 16);
     text-decoration: underline;
     padding: 20px;
-    margin: 10px; 
+    margin-inline: 15px; 
 
 }
